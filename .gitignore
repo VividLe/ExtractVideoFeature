@@ -128,3 +128,6 @@ dmypy.json
 # Pyre type checker
 .pyre/
 slowfast/
+models/
+features_1/
+videos_1/
